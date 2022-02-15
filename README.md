@@ -6,13 +6,14 @@ In this project we will configure and use multiple datasource
 
 ### Add datasource configs params to your application.properties file
 
-* FIRST db config 
+    FIRST db config 
 * spring.first.datasource.jdbcUrl=jdbc:mysql://url-to-mysql-db
 * spring.first.datasource.username={username} 
 * spring.first.datasource.password={password}
 * spring.first.datasource.driverClassName=com.mysql.cj.jdbc.Driver
-
-* SECOND db config 
+* 
+###
+    SECOND db config 
 * spring.second.datasource.jdbcUrl=jdbc:postgresql://url-to-postgresql-db 
 * spring.second.datasource.username={username} 
 * spring.second.datasource.password={password}
