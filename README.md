@@ -1,5 +1,3 @@
-# Read Me
-
 ## Use multiple datasource in a spring-boot project
 
 In this project we will configure and use multiple datasource
